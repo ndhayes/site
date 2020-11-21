@@ -33,8 +33,13 @@
   </url>
   
   <url>
+    <loc>/post/example/</loc>
+    <lastmod>2020-11-20T21:09:10-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-20T21:09:10-06:00</lastmod>
   </url>
   
   <url>

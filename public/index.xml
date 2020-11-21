@@ -75,6 +75,20 @@
     </item>
     
     <item>
+      <title>Example</title>
+      <link>/post/example/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/example/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+
+</description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -102,7 +116,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-326789451&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-754193628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -112,7 +126,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-326789451&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-754193628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
