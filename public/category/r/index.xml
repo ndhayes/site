@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R | Academic</title>
+    <title>R | Nick Hayes</title>
     <link>https://nickhayes.io/category/r/</link>
       <atom:link href="https://nickhayes.io/category/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>&amp;copy 2020 Nick Hayes</copyright><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nickhayes.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>R</title>
@@ -26,20 +26,6 @@
 &lt;h2&gt;Saturday&lt;/h2&gt;
 &lt;p&gt;This is an example post demonstration.&lt;/p&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sunday</title>
-      <link>https://nickhayes.io/post/sunday/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://nickhayes.io/post/sunday/</guid>
-      <description>
-&lt;link href=&#34;https://nickhayes.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://nickhayes.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;##testing ahhhhhhhhh&lt;/p&gt;
 </description>
     </item>
     
