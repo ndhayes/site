@@ -73,6 +73,36 @@
   </url>
   
   <url>
+    <loc>https://nickhayes.io/tag/data-science/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/tag/measurement-based-care/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/project/internal-project/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/project/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/tag/cloud/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/project/external-project/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nickhayes.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -89,12 +119,12 @@
   
   <url>
     <loc>https://nickhayes.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nickhayes.io/author/nick-hayes/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -120,61 +150,6 @@
   <url>
     <loc>https://nickhayes.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nickhayes.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
