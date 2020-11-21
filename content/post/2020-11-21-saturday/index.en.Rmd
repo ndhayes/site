@@ -1,26 +1,28 @@
 ---
-title: Saturday
+title: Blogging with R :eyes: :bluebook:
 author: Nick Hayes
 date: '2020-11-21'
-slug: saturday
+slug: blogging
 categories:
   - R
+  - Blogdown
 tags:
-  - Demo
+  - R
+  - Blogdown
 subtitle: ''
 summary: ''
 authors: []
 lastmod: '2020-11-21T10:33:36-06:00'
 featured: no
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/8rj4sz9YLCI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)'
   focal_point: ''
   preview_only: no
 projects: []
 ---
 
 
-## Saturday
+## Blogging with R
 
 This is an example post demonstration. 
 
