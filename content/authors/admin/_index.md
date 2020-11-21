@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Nick Hayes
 user_groups:
 - Principal Investigators
 ---
