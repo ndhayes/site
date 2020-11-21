@@ -48,5 +48,3 @@ Nick Hayes is Chief Science Officer at Cumberland Heights Foundation. Nick is ta
 
 Nick also serves as Adjunct Professor of Psychology at Lipscomb University. He teaches both Research Methods and Substance Use Disorder focused curriculum. 
 
-
-##{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
