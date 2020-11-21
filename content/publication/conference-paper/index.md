@@ -1,47 +1,38 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Substance use disorders (SUDs) have been viewed traditionally as an acute individual illness. However, professionals are beginning to shift SUD treatment practices to match empirically driven models that consider family recovery as an important mechanism of systemic change. This study aimed to explore the relationship between family member hope and readiness to change (RTC). The method includes a dyadic actor-partner interdependence model, exploring change processes observed over a brief family treatment program located within an SUD treatment facility. Results of this study highlight actor effects for parents’ RTC and hope. Implications for research and clinicians are discussed.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2019-07-03T00:00:00Z"
+doi: 
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/qAriosuB-lY?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/nickhayesphd
 projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: 
+publication_short: 
 publication_types:
-- "1"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: 
+slides: 
+summary: Leveraging data to examine change in SUD treatment contexts. 
 tags:
-- Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+- Substance Use Disorders
+- Structural Equation Modeling
+title: A Dyadic Analysis Examining Systemic Change in SUD Treatment Contexts
+url_code: ''
+url_dataset: ''
+url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/07347324.2018.1534534"
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

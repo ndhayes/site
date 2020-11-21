@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Substance Use Disorder | Nick Hayes</title>
+    <link>https://nickhayes.io/tag/substance-use-disorder/</link>
+      <atom:link href="https://nickhayes.io/tag/substance-use-disorder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Substance Use Disorder</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Nick Hayes</copyright><lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nickhayes.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Substance Use Disorder</title>
+      <link>https://nickhayes.io/tag/substance-use-disorder/</link>
+    </image>
+    
+    <item>
+      <title>The Phenomena of Recovery</title>
+      <link>https://nickhayes.io/publication/journal-article/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nickhayes.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

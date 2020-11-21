@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structural Equation Modeling | Nick Hayes</title>
+    <link>https://nickhayes.io/tag/structural-equation-modeling/</link>
+      <atom:link href="https://nickhayes.io/tag/structural-equation-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Structural Equation Modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Nick Hayes</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nickhayes.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Structural Equation Modeling</title>
+      <link>https://nickhayes.io/tag/structural-equation-modeling/</link>
+    </image>
+    
+    <item>
+      <title>An Accelerated Latent Class Growth Analysis (Depressive Trajectories in Adolescents)</title>
+      <link>https://nickhayes.io/publication/preprint/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://nickhayes.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dyadic Analysis Examining Systemic Change in SUD Treatment Contexts</title>
+      <link>https://nickhayes.io/publication/conference-paper/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://nickhayes.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
