@@ -30,6 +30,20 @@
     </item>
     
     <item>
+      <title>Sunday</title>
+      <link>https://nickhayes.io/post/sunday/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nickhayes.io/post/sunday/</guid>
+      <description>
+&lt;link href=&#34;https://nickhayes.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://nickhayes.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;##testing ahhhhhhhhh&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example</title>
       <link>https://nickhayes.io/post/example/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
@@ -71,7 +85,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-148765923&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-276385941&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -81,7 +95,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-148765923&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-276385941&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
