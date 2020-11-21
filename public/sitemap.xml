@@ -33,12 +33,22 @@
   </url>
   
   <url>
-    <loc>https://nickhayes.io/categories/</loc>
+    <loc>https://nickhayes.io/tag/blogdown/</loc>
     <lastmod>2020-11-21T10:33:36-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickhayes.io/tag/demo/</loc>
+    <loc>https://nickhayes.io/category/blogdown/</loc>
+    <lastmod>2020-11-21T10:33:36-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/post/blogging/</loc>
+    <lastmod>2020-11-21T10:33:36-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/categories/</loc>
     <lastmod>2020-11-21T10:33:36-06:00</lastmod>
   </url>
   
@@ -48,12 +58,12 @@
   </url>
   
   <url>
-    <loc>https://nickhayes.io/category/r/</loc>
+    <loc>https://nickhayes.io/tag/r/</loc>
     <lastmod>2020-11-21T10:33:36-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nickhayes.io/post/saturday/</loc>
+    <loc>https://nickhayes.io/category/r/</loc>
     <lastmod>2020-11-21T10:33:36-06:00</lastmod>
   </url>
   
@@ -114,6 +124,11 @@
   
   <url>
     <loc>https://nickhayes.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickhayes.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

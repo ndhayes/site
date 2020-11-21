@@ -5,29 +5,12 @@
     <link>https://nickhayes.io/tag/demo/</link>
       <atom:link href="https://nickhayes.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Nick Hayes</copyright><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Nick Hayes</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nickhayes.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
       <link>https://nickhayes.io/tag/demo/</link>
     </image>
-    
-    <item>
-      <title>Saturday</title>
-      <link>https://nickhayes.io/post/saturday/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://nickhayes.io/post/saturday/</guid>
-      <description>
-&lt;link href=&#34;https://nickhayes.io/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://nickhayes.io/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;div id=&#34;saturday&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Saturday&lt;/h2&gt;
-&lt;p&gt;This is an example post demonstration.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
     
     <item>
       <title>External Project</title>

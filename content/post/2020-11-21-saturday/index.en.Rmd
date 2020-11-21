@@ -1,5 +1,5 @@
 ---
-title: Blogging with R :eyes: :bluebook:
+title: Blogging with R 
 author: Nick Hayes
 date: '2020-11-21'
 slug: blogging
